@@ -1,0 +1,11 @@
+Problem 3: Using Selenium and Python to create a file
+
+Modify selenium2github.py from lecture11 to create a file containing your own message using Selenium.
+
+Replace the github account name and password with your own.
+
+The file that you create has to be named differently from the ones created in problems 1 and 2.
+
+Use the same naming convention having your last name embedded [last_name]_file3.txt, like:
+
+lam_file3.txt
